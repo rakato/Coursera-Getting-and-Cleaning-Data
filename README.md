@@ -22,5 +22,7 @@ tidy_data.txt
 contains the mean and standard deviation 
 
 ```
-tidy_data2.txt contains the mean and standard deviation for each subject/test
+tidy_data2.txt 
 ```
+contains the mean and standard deviation for each subject/test
+
