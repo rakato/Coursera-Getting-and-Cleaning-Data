@@ -1,8 +1,10 @@
-Coursera-Getting-and-Cleaning-Data: Course Project
+Getting and Cleaning Data: Course Project
 ==================================================
 
-Introduction
-============
+##Introduction
+
+
+****************************
 
 This repository contains my work from the Coursera Getting and Cleaning Data Course
 
