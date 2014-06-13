@@ -13,7 +13,7 @@ Project seeks to take raw, untidy data from a wearable computing experiment done
 download_data.R
 ```
 
-## Data Cleaning Script
+## Clean the Data
 ```
 run_analysis.R
 ```
