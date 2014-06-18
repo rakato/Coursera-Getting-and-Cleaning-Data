@@ -9,7 +9,7 @@
 
 
 ####Code Actions
-Zip file is downloaded and unzipped to specified directory, next:
+Zip File is downloaded and unzipped to specified directory, next:
 
 ```
 run_analysis.R
