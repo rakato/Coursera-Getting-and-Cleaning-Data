@@ -1,4 +1,4 @@
-## Code Book for Getting and Cleaning Data Course Project
+## Code Book for Wearable Computing Data Analysis
 
 ####Original Data Set and Description
 
